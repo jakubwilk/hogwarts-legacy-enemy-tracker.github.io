@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "category": 1,
+      "name": "enemy.name.loyalists.assassin",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/6/60/Loyalist_Assassin.png"
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "name": "enemy.name.loyalists.commander",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/e/ed/Loyalist_Commander.png"
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "name": "enemy.name.loyalists.ranger",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/0/0a/Loyalist_Ranger.png"
+    },
+    {
+      "id": 4,
+      "category": 1,
+      "name": "enemy.name.loyalists.sentinel",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/4/49/Loyalist_Sentinel.png"
+    },
+    {
+      "id": 5,
+      "category": 1,
+      "name": "enemy.name.loyalists.warrior",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/8/8a/Loyalist_Warrior.png"
+    }
+  ],
+  "total": 5
+}

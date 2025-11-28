@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "enemy.category.loyalists"
+    },
+    {
+      "id": 2,
+      "name": "enemy.category.ashwinders"
+    },
+    {
+      "id": 3,
+      "name": "enemy.category.poachers"
+    },
+    {
+      "id": 4,
+      "name": "enemy.category.trolls"
+    },
+    {
+      "id": 5,
+      "name": "enemy.category.dugbogs"
+    },
+    {
+      "id": 6,
+      "name": "enemy.category.thornbacks"
+    },
+    {
+      "id": 7,
+      "name": "enemy.category.venomouses"
+    },
+    {
+      "id": 8,
+      "name": "enemy.category.mongrels"
+    },
+    {
+      "id": 9,
+      "name": "enemy.category.others"
+    }
+  ],
+  "total": 9
+}
