@@ -2,8 +2,8 @@ import { Group, Image, Select, Tooltip } from '@mantine/core'
 import { useTranslation } from 'react-i18next'
 
 const languages = [
-  { value: 'pl', label: 'Polski', flag: 'PL' },
   { value: 'en', label: 'English', flag: 'GB' },
+  { value: 'pl', label: 'Polski', flag: 'PL' },
 ]
 
 export default function LanguageSwitcher() {
