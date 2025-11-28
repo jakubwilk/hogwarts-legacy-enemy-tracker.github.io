@@ -9,4 +9,11 @@
 
 body {
   margin: 0;
+  background-color: transparent !important;
+  background-image: url('./assets/hero-bg.jpeg') !important;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-blend-mode: overlay;
 }
