@@ -29,7 +29,193 @@
       "category": 1,
       "name": "enemy.name.loyalists.warrior",
       "image": "https://static.wikia.nocookie.net/sorting-hat/images/8/8a/Loyalist_Warrior.png"
+    },
+    {
+      "id": 6,
+      "category": 2,
+      "name": "enemy.name.ashwinders.duelist",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/8/8e/Ashwinder_Duellist.png"
+    },
+    {
+      "id": 7,
+      "category": 2,
+      "name": "enemy.name.ashwinders.scout",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/f/ff/Ashwinder_Scout.png"
+    },
+    {
+      "id": 8,
+      "category": 2,
+      "name": "enemy.name.ashwinders.assassin",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/0/07/Ashwinder_Assassin.png"
+    },
+    {
+      "id": 9,
+      "category": 2,
+      "name": "enemy.name.ashwinders.ranger",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/b/b6/Ashwinder_Ranger.png"
+    },
+    {
+      "id": 10,
+      "category": 2,
+      "name": "enemy.name.ashwinders.soldier",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/f/fc/Ashwinder_Soldier.png"
+    },
+    {
+      "id": 11,
+      "category": 2,
+      "name": "enemy.name.ashwinders.executioner",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/b/b2/Ashwinder_Executioner.png"
+    },
+    {
+      "id": 12,
+      "category": 3,
+      "name": "enemy.name.poachers.duelist",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/d/d9/Poacher_Duellist.png"
+    },
+    {
+      "id": 13,
+      "category": 3,
+      "name": "enemy.name.poachers.tracker",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/2/2d/Poacher_Tracker.png"
+    },
+    {
+      "id": 14,
+      "category": 3,
+      "name": "enemy.name.dpoachers.animagus",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/f/ff/Poacher_Animagus.png"
+    },
+    {
+      "id": 15,
+      "category": 3,
+      "name": "enemy.name.dpoachers.animagusAnimalForm",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/f/ff/Poacher_Animagus.png"
+    },
+    {
+      "id": 16,
+      "category": 3,
+      "name": "enemy.name.poachers.ranger",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/5/53/Poacher_Ranger.png"
+    },
+    {
+      "id": 17,
+      "category": 3,
+      "name": "enemy.name.poachers.stalker",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/2/20/Poacher_Stalker.png"
+    },
+    {
+      "id": 18,
+      "category": 3,
+      "name": "enemy.name.poachers.executioner",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/f/f0/Poacher_Executioner.png"
+    },
+    {
+      "id": 19,
+      "category": 4,
+      "name": "enemy.name.trolls.forest",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/8/89/Forest_Troll.png"
+    },
+    {
+      "id": 20,
+      "category": 4,
+      "name": "enemy.name.trolls.mountain",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/b/ba/Mountain_Troll.png"
+    },
+    {
+      "id": 21,
+      "category": 4,
+      "name": "enemy.name.trolls.river",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/c/c6/River_Troll.png"
+    },
+    {
+      "id": 22,
+      "category": 5,
+      "name": "enemy.name.dugbogs.stoneback",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/5/55/Stoneback_Dugbog.png"
+    },
+    {
+      "id": 23,
+      "category": 5,
+      "name": "enemy.name.dugbogs.greatSpined",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/9/91/Great_Spined_Dugbog.png"
+    },
+    {
+      "id": 24,
+      "category": 5,
+      "name": "enemy.name.dugbogs.cottongrass",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/7/70/Cottongrass_Dugbog.png"
+    },
+    {
+      "id": 25,
+      "category": 6,
+      "name": "enemy.name.thornbacks.scurriour",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/5/51/Thornback_Scurriour.png"
+    },
+    {
+      "id": 26,
+      "category": 6,
+      "name": "enemy.name.thornbacks.ambusher",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/c/cb/Thornback_Ambusher.png"
+    },
+    {
+      "id": 27,
+      "category": 6,
+      "name": "enemy.name.thornbacks.shooter",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/6/6d/Thornback_Shooter.png"
+    },
+    {
+      "id": 28,
+      "category": 6,
+      "name": "enemy.name.thornbacks.matriarch",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/1/1e/Thornback_Matriarch.png"
+    },
+    {
+      "id": 29,
+      "category": 7,
+      "name": "enemy.name.venomouses.scurriour",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/0/01/Venomous_Scurriour.png"
+    },
+    {
+      "id": 30,
+      "category": 7,
+      "name": "enemy.name.venomouses.ambusher",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/c/c9/Venomous_Ambusher.png"
+    },
+    {
+      "id": 31,
+      "category": 7,
+      "name": "enemy.name.venomouses.shooter",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/3/31/Venomous_Shooter.png"
+    },
+    {
+      "id": 32,
+      "category": 7,
+      "name": "enemy.name.venomouses.matriarch",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/2/2f/Venomous_Matriarch.png"
+    },
+    {
+      "id": 33,
+      "category": 8,
+      "name": "enemy.name.others.mongrel",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/0/03/Dark_Mongrel.png"
+    },
+    {
+      "id": 34,
+      "category": 8,
+      "name": "enemy.name.others.darkMongrel",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/0/03/Dark_Mongrel.png"
+    },
+    {
+      "id": 35,
+      "category": 8,
+      "name": "enemy.name.others.acromantula",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/6/60/Acromantula.png"
+    },
+    {
+      "id": 36,
+      "category": 8,
+      "name": "enemy.name.othjers.inferius",
+      "image": "https://static.wikia.nocookie.net/sorting-hat/images/4/46/Inferius.png"
     }
   ],
-  "total": 5
+  "total": 36
 }

@@ -61,7 +61,6 @@
       "dugbogs": "Bagniki",
       "thornbacks": "Kolczakoraki",
       "venomouses": "Jadowite pająki",
-      "mongrels": "Kundele",
       "others": "Inne"
     },
     "name": {
@@ -71,6 +70,58 @@
         "ranger": "Lojalistyczny łowca",
         "sentinel": "Lojalistyczny strażnik",
         "warrior": "Lojalistyczny wojownik"
+      },
+      "ashwinders": {
+        "duelist": "Popielny pojedynkowicz",
+        "scout": "Popielny zwiadowca",
+        "assassin": "Popielny zabójca",
+        "ranger": "Popielny łowca",
+        "soldier": "Popielny żołnierz",
+        "executioner": "Popielny kat"
+      },
+      "poachers": {
+        "duelist": "Kłusownik pojedynkowicz",
+        "tracker": "Kłusownik tropiciel",
+        "animagus": "Kłusownik animag",
+        "animagusAnimalForm": "Kłusownik animag (forma zwierzęca)",
+        "ranger": "Kłusownik łowca",
+        "stalker": "Kłusownik prześladowca",
+        "executioner": "Kłusownik kat"
+      },
+      "dpoachers": {
+        "animagus": "Kłusownik animag",
+        "animagusAnimalForm": "Kłusownik animag (forma zwierzęca)"
+      },
+      "trolls": {
+        "forest": "Troll leśny",
+        "mountain": "Troll górski",
+        "river": "Troll rzeczny"
+      },
+      "dugbogs": {
+        "stoneback": "Bagnik Kamiennogrzbieta",
+        "greatSpined": "Bagnik Wielkokolcowy",
+        "cottongrass": "Bagnik Turzycy"
+      },
+      "thornbacks": {
+        "scurriour": "Kolczakorak zwiadowca",
+        "ambusher": "Kolczakorak zasadnik",
+        "shooter": "Kolczakorak strzelec",
+        "matriarch": "Kolczakorak matriarchat"
+      },
+      "venomouses": {
+        "scurriour": "Jadowity zwiadowca",
+        "ambusher": "Jadowity zasadnik",
+        "shooter": "Jadowity strzelec",
+        "matriarch": "Jadowity matriarchat"
+      },
+      "others": {
+        "mongrel": "Kundel",
+        "darkMongrel": "Ciemny kundel",
+        "acromantula": "Akromantula",
+        "inferius": "Inferius"
+      },
+      "othjers": {
+        "inferius": "Inferius"
       }
     }
   }

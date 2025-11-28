@@ -61,7 +61,6 @@
       "dugbogs": "Dugbogs",
       "thornbacks": "Thornbacks",
       "venomouses": "Venomous Spiders",
-      "mongrels": "Mongrels",
       "others": "Others"
     },
     "name": {
@@ -71,6 +70,58 @@
         "ranger": "Loyalist Ranger",
         "sentinel": "Loyalist Sentinel",
         "warrior": "Loyalist Warrior"
+      },
+      "ashwinders": {
+        "duelist": "Ashwinder Duelist",
+        "scout": "Ashwinder Scout",
+        "assassin": "Ashwinder Assassin",
+        "ranger": "Ashwinder Ranger",
+        "soldier": "Ashwinder Soldier",
+        "executioner": "Ashwinder Executioner"
+      },
+      "poachers": {
+        "duelist": "Poacher Duelist",
+        "tracker": "Poacher Tracker",
+        "animagus": "Poacher Animagus",
+        "animagusAnimalForm": "Poacher Animagus (Animal Form)",
+        "ranger": "Poacher Ranger",
+        "stalker": "Poacher Stalker",
+        "executioner": "Poacher Executioner"
+      },
+      "dpoachers": {
+        "animagus": "Poacher Animagus",
+        "animagusAnimalForm": "Poacher Animagus (Animal Form)"
+      },
+      "trolls": {
+        "forest": "Forest Troll",
+        "mountain": "Mountain Troll",
+        "river": "River Troll"
+      },
+      "dugbogs": {
+        "stoneback": "Stoneback Dugbog",
+        "greatSpined": "Great Spined Dugbog",
+        "cottongrass": "Cottongrass Dugbog"
+      },
+      "thornbacks": {
+        "scurriour": "Thornback Scurriour",
+        "ambusher": "Thornback Ambusher",
+        "shooter": "Thornback Shooter",
+        "matriarch": "Thornback Matriarch"
+      },
+      "venomouses": {
+        "scurriour": "Venomous Scurriour",
+        "ambusher": "Venomous Ambusher",
+        "shooter": "Venomous Shooter",
+        "matriarch": "Venomous Matriarch"
+      },
+      "others": {
+        "mongrel": "Mongrel",
+        "darkMongrel": "Dark Mongrel",
+        "acromantula": "Acromantula",
+        "inferius": "Inferius"
+      },
+      "othjers": {
+        "inferius": "Inferius"
       }
     }
   }
